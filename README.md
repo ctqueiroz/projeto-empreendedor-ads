@@ -9,7 +9,7 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 1. Crie um repositório no GitHub para o projeto da sua equipe
 2. Garanta que o repositório seja **público**
 3. Envie o link para o orientador com:
-   - Nome da equipe
+   - Nome do Aluno
    - Nome do projeto
    - Integrantes
    - Link do repositório
@@ -23,9 +23,7 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 |---|---|---|---|---|
 |Gilberto Todeschini Junior|Sistema de Gestão de Estoque e Notificações Automatizadas para Varejo de Moda| [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
 |Luis Henrique Werner|Sistema de Emissão de Certidões | [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
-|Rafael Misturini|NEXOFLOW
-SISTEMA WEB PARA CONTROLE DE PRODUÇÃO, PERDAS E DESEMPENHO DE
-COLABORADORES| [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
+|Rafael Misturini| NEXOFLOW SISTEMA WEB PARA CONTROLE DE PRODUÇÃO, PERDAS E DESEMPENHO DE COLABORADORES| [link] (https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
 |Régis Thein Rinaldi|sistema web unificado para a gestão de tickets de suporte e acompanhamento de projetos de implantação| [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
 |William Serafin Zatt|Sistema de Gestão para Pequeno Comércio| [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
 | | | | | |
