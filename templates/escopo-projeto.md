@@ -3,7 +3,7 @@
 ## Nome do Projeto
 [Nome]
 
-## Equipe
+## Stakeholders
 - [Integrante 1] — [função]
 - [Integrante 2] — [função]
 
