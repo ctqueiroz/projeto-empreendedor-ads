@@ -29,6 +29,7 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 | | | | | |
 
 > **Legenda de Status:**
+
 > 📋 Em Requisitos · 🟡 Em Modelagem · 🟢 Em Desenvolvimento · 🧪 Em Teste · 🔴 Pendente · ✅ Entregue · 🏆 Aprovado
 
 ---
