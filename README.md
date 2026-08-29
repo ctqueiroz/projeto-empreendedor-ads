@@ -28,6 +28,9 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 | | | | | |
 
 > **Status:** 🟡 Em modelagem · 🟢 Em desenvolvimento · 🔴 Pendente · ✅ Entregue
+---
+
+🟢 Repositório ativo — semestres em andamento
 
 ---
 
@@ -75,4 +78,4 @@ O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Ca
 ## Modelo de Issue para nova equipe
 
 Quando uma nova equipe iniciar, criar uma issue no repositório com este template:
-🟢 Repositório ativo — semestres em andamento
+
