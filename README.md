@@ -30,7 +30,9 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 
 > **Legenda de Status:**
 
-> 📋 Em Requisitos · 🟡 Em Modelagem · 🟢 Em Desenvolvimento · 🧪 Em Teste · 🔴 Pendente · ✅ Entregue · 🏆 Aprovado
+> 📋 Em Requisitos · 🟡 Em Modelagem · 🟢 Em Desenvolvimento · 🧪 Em Teste
+
+> · 🔴 Em Atraso · ✅ Entregue · 🏆 Aprovado
 
 ---
 
@@ -41,7 +43,8 @@ O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Ca
 **Backlog** → **Definição do problema** → **Requisitos & Modelagem** → **Em desenvolvimento** → **Testes & Documentação** → **Entregue**
 
 > **Pipeline de Status:**
-> 📋 Em Requisitos → 🟡 Em Modelagem → 🟢 Em Desenvolvimento →
+> 📋 Em Requisitos → 🟡 Em Modelagem → 🟢 Em Desenvolvimento
+
 > 🧪 Em Teste → ✅ Entregue → 🏆 Aprovado
 
 ---
