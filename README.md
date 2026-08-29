@@ -1,26 +1,3 @@
-# Projeto Empreendedor — ADS
-
-Repositório educacional para documentação, acompanhamento e orientação de projetos empreendedores desenvolvidos por estudantes de **Análise e Desenvolvimento de Sistemas**.
-
-## Objetivo
-
-Aproximir universidade e mercado através de projetos reais, orientando estudantes desde a definição do problema até a apresentação do produto final.
-
-## Orientador
-
-**Carlos Tadeu Queiroz de Morais** — Professor • Pesquisador • Orientador
-
-## Estrutura do Repositório
-
-## Etapas de Orientação
-
-1. **Definição do problema** — identificação de necessidades e oportunidades
-2. **Pesquisa e levantamento de requisitos** — coleta de dados e validação
-3. **Análise e modelagem** — arquitetura, UX/UI, modelagem de dados
-4. **Desenvolvimento** — Front-end, Back-end, banco de dados, testes
-5. **Documentação** — manual técnico, README, apresentação
-6. **Apresentação e avaliação** — demo, feedback e entrega final
-
 # Projetos dos Estudantes
 
 Repositório central para registro e acompanhamento dos projetos desenvolvidos pelos estudantes orientados no **Projeto Empreendedor — ADS**.
@@ -50,8 +27,7 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 | | | | | |
 | | | | | |
 
-> **Status:** 🟢 Em desenvolvimento · 🟡 Em modelagem · 🔴 Pendente · ✅ Entregue
-
+> **Status:** 🟡 Em modelagem · 🟢 Em desenvolvimento · 🔴 Pendente · ✅ Entregue
 
 ---
 
@@ -59,13 +35,13 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 
 O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Cada equipe é representada por um issue no quadro Kanban:
 
-- **Backlog** → **Definição do problema** → **Requisitos & Modelagem** → **Em desenvolvimento** → **Testes & Documentação** → **Entregue**
+**Backlog** → **Definição do problema** → **Requisitos & Modelagem** → **Em desenvolvimento** → **Testes & Documentação** → **Entregue**
+
 ---
 
 ## Semestres anteriores
 
 <details>
-
 <summary>📂 2026.1</summary>
 
 | Aluno | Projeto | Repositório | Status |
@@ -75,6 +51,7 @@ O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Ca
 
 </details>
 
+<details>
 <summary>📂 2025.2</summary>
 
 | Aluno | Projeto | Repositório | Status |
@@ -98,7 +75,4 @@ O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Ca
 ## Modelo de Issue para nova equipe
 
 Quando uma nova equipe iniciar, criar uma issue no repositório com este template:
-
-## Status
-
 🟢 Repositório ativo — semestres em andamento
