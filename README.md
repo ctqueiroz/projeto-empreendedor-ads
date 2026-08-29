@@ -1,4 +1,4 @@
-# Projetos dos Estudantes
+# Projetos dos Estudantes Centro Universitários - UNIFTEC
 
 Repositório central para registro e acompanhamento dos projetos desenvolvidos pelos estudantes orientados no **Projeto Empreendedor — ADS**.
 
@@ -36,12 +36,13 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 
 ## Acompanhamento
 
-O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Cada equipe é representada por um issue no quadro Kanban:
+O acompanhamento semanal é feito via **GitHub Projects** deste repositório. Cada ALUNO é representada por um issue no quadro Kanban:
 
 **Backlog** → **Definição do problema** → **Requisitos & Modelagem** → **Em desenvolvimento** → **Testes & Documentação** → **Entregue**
 
 > **Pipeline de Status:**
-> 📋 Em Requisitos → 🟡 Em Modelagem → 🟢 Em Desenvolvimento → 🧪 Em Teste → ✅ Entregue → 🏆 Aprovado
+> 📋 Em Requisitos → 🟡 Em Modelagem → 🟢 Em Desenvolvimento →
+> 🧪 Em Teste → ✅ Entregue → 🏆 Aprovado
 
 ---
 
