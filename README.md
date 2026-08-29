@@ -21,15 +21,11 @@ Repositório central para registro e acompanhamento dos projetos desenvolvidos p
 
 | Aluno | Projeto | Repositório | Status | Entrega |
 |---|---|---|---|---|
-| _Exemplo: Equipe A_ | _Sistema de Gestão de TCCs_ | [link](https://github.com/) | 📋 Em Requisitos | _30/06/2026_ |
-| _Exemplo: Equipe B_ | _App de Doações Solidárias_ | [link](https://github.com/) | 🟡 Em Modelagem | _30/06/2026_ |
-| _Exemplo: Equipe C_ | _Plataforma de Cursos_ | [link](https://github.com/) | 🟢 Em Desenvolvimento | _30/06/2026_ |
-| _Exemplo: Equipe D_ | _App de Flashcards_ | [link](https://github.com/) | 🧪 Em Teste | _30/06/2026_ |
-| _Exemplo: Equipe E_ | _Sistema de Agendamento_ | [link](https://github.com/) | 🔴 Pendente | _30/06/2026_ |
-| _Exemplo: Equipe F_ | _Gestão de Estoque_ | [link](https://github.com/) | ✅ Entregue | _15/06/2026_ |
-| _Exemplo: Equipe G_ | _Plataforma EAD_ | [link](https://github.com/) | 🏆 Aprovado | _10/06/2026_ |
-| | | | | |
-| | | | | |
+|Gilberto Todeschini Junior| Sistema de Gestão de Estoque| [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
+|Luis Henrique Werner|Sistema de Emissão de Certidões | [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
+|Rafael Misturini| Plataforma de Cursos_ | [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
+|Régis Thein Rinaldi| _App de Flashcards_ | [link](https://github.com/) | 📋 Em Requisitos | _28/08/2026_ |
+|William Serafin Zatt|Sistema de Gestão para Pequeno Comércio| [link](https://github.com/) | 📋 Em Requisitos | _30/06/2026_ |
 | | | | | |
 
 > **Legenda de Status:**
