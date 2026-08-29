@@ -1,4 +1,4 @@
-# Projetos dos Estudantes Centro Universitários - UNIFTEC
+# Projetos dos Estudantes Centro Universitário - UNIFTEC
 
 Repositório central para registro e acompanhamento dos projetos desenvolvidos pelos estudantes orientados no **Projeto Empreendedor — ADS**.
 
